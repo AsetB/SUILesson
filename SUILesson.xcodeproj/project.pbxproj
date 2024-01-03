@@ -14,6 +14,7 @@
 		DBFB4F472B43DD3900994B48 /* SUILessonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFB4F462B43DD3900994B48 /* SUILessonTests.swift */; };
 		DBFB4F512B43DD3900994B48 /* SUILessonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFB4F502B43DD3900994B48 /* SUILessonUITests.swift */; };
 		DBFB4F532B43DD3900994B48 /* SUILessonUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFB4F522B43DD3900994B48 /* SUILessonUITestsLaunchTests.swift */; };
+		DBFB4F602B442B9C00994B48 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFB4F5F2B442B9C00994B48 /* ListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		DBFB4F4C2B43DD3900994B48 /* SUILessonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SUILessonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBFB4F502B43DD3900994B48 /* SUILessonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SUILessonUITests.swift; sourceTree = "<group>"; };
 		DBFB4F522B43DD3900994B48 /* SUILessonUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SUILessonUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DBFB4F5F2B442B9C00994B48 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				DBFB4F352B43DD3800994B48 /* SUILessonApp.swift */,
 				DBFB4F372B43DD3800994B48 /* ContentView.swift */,
+				DBFB4F5F2B442B9C00994B48 /* ListView.swift */,
 				DBFB4F392B43DD3900994B48 /* Assets.xcassets */,
 				DBFB4F3B2B43DD3900994B48 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				DBFB4F382B43DD3800994B48 /* ContentView.swift in Sources */,
 				DBFB4F362B43DD3800994B48 /* SUILessonApp.swift in Sources */,
+				DBFB4F602B442B9C00994B48 /* ListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
